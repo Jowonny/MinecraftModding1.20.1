@@ -1,0 +1,14 @@
+{
+  "item.cosmeticarmours.testitem": "TheTestItem",
+
+  "creativetab.cosmeticarmours_tab": "CosmeticArmours",
+
+  "item.cosmeticarmours.steampunkerf_helmet": "Steampunker's Hat",
+  "item.cosmeticarmours.steampunkerf_chestplate": "Steampunker's Waistcoat",
+  "item.cosmeticarmours.steampunkerf_leggings": "Steampunker's Skirt",
+  "item.cosmeticarmours.steampunkerf_boots": "Steampunker's Stockings and Shoes",
+
+  "item.cosmeticarmours.plainskirt_chestplate": "Top",
+  "item.cosmeticarmours.plainskirt_leggings": "Thighhigh Socks and Shoes",
+  "item.cosmeticarmours.plainskirt_boots": "Plain Skirt"
+}
